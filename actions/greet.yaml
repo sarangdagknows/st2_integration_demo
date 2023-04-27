@@ -1,6 +1,6 @@
 ---
 name: greet
-pack: hello_st2
+pack: st2_integration_demo
 runner_type: "local-shell-script"
 description: Greet StackStorm!
 enabled: true
